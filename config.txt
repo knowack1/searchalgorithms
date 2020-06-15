@@ -1,0 +1,11 @@
+map:10.bmp
+sources:190,30;
+goals:330,450;
+scales:5;
+###########
+map:11.bmp
+sources:290,160;
+goals:10,750;
+scales:5;
+###########
+
