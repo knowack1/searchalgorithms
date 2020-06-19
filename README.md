@@ -1,6 +1,6 @@
-# Search Algorithms
+# Search Algorithms (Project developed during studies in 2009)
 
-Project developed during studies. Program implements, compares and visualizes following search algorithms:
+Implements, compares and visualizes following search algorithms:
 - A*
 - Depth-first search
 - Best search
